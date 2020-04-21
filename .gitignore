@@ -1,0 +1,10 @@
+
+.vs
+*.dll
+*.pdb
+UvA.Nose.AzureMigratie.Poc.Data/bin
+UvA.Nose.AzureMigratie.Poc.Data/obj
+UvA.Nose.AzureMigratie.Poc.Models/bin
+UvA.Nose.AzureMigratie.Poc.Models/obj
+UvA.Nose.AzureMigratie.Poc.Web/bin
+UvA.Nose.AzureMigratie.Poc.Web/obj
